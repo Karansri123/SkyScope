@@ -2,7 +2,7 @@ import AirIcon from "@mui/icons-material/Air";
 import WbSunnyIcon from "@mui/icons-material/WbSunny";
 import NightsStayIcon from "@mui/icons-material/NightsStay";
 import InvertColorsIcon from "@mui/icons-material/InvertColors";
-import HighlightBox from "../../src/components/HighlightBox"; // Fixed import name to match the PascalCase
+import HighlightBox from "../components/Highlightbox"; // Fixed import name to match the PascalCase
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import CompressIcon from '@mui/icons-material/Compress';
 import DeviceThermostatIcon from '@mui/icons-material/DeviceThermostat';
